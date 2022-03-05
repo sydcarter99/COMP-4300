@@ -1,0 +1,7 @@
+//sage.eng.auburn.edu/homes/desktop/lab1.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none //sage.eng.auburn.edu/homes/desktop/lab1.vhd
+Model Technology ModelSim SE-64 vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling entity full_adder
+-- Compiling architecture behaviour1 of full_adder
+
+} {} {}}
